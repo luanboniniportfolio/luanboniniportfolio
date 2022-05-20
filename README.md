@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou atualmente trabalhando com front-end
-- 🌱 Estudando java
+- 🌱 Estudando Java
 - 📫 Contato email: luanbonini@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado: amo caipirinha gelada 🍹
